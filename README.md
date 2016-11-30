@@ -1,6 +1,8 @@
 # coms
 A simple Windows web server in 17 lines of powershell
 
+![Alt text](presentation.gif?raw=true "A brief presentation of the result")
+
 ## Usage
 
 `./coms.ps1 [port] [response]`
