@@ -1,5 +1,5 @@
 # coms
-A simple Windows web server in 17 lines of powershell
+A simple Windows web server in 10 lines of powershell
 
 ![Alt text](presentation.gif?raw=true "A brief presentation of the result")
 
