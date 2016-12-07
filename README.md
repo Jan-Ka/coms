@@ -47,3 +47,9 @@ which at first left me wondering "*Can it be done on Windows?*" but then I saw w
 Now - two Days later this is my finished work. Take it for what it is - probably satire.
 
 I would have loved to replicate the same concise shell script in cmd or at least powershell but I could not so I accept my defeat.
+
+
+## From 17 to 10
+
+[ChristopherGLewis](https://github.com/ChristopherGLewis/PowerShellWebServers) unraveled the Mysteries of the HttpListener and brought us a Solution in 10 LoC while even managing to stay alive for a second request.
+Please see his repositories for more iterations and versions of the Script.
